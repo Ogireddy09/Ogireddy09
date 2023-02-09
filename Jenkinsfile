@@ -1,5 +1,6 @@
 #!groovy
 
+//test1
 node {
     currentBuild.result = "SUCCESS"
 
